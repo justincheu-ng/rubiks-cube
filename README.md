@@ -9,7 +9,7 @@ A casual command line game written in C. Tested on macOS only.
 
 ## Commands
 
-### Cube rotation (Case sensitive):
+### Cube rotation (Case sensitive)
 
 | Layer        | Clockwise | Anticlockwise | Remarks         |
 |--------------|-----------|---------------|-----------------|
@@ -19,15 +19,14 @@ A casual command line game written in C. Tested on macOS only.
 | **D**own     | `D`       | `d`           |                 |
 | **F**ront    | `F`       | `f`           |                 |
 | **B**ack     | `B`       | `b`           |                 |
-| **M**iddle   | `M`       | `b`           | Between L and R |
-| **E**quator  | `E`       | `b`           | Between U and D |
-| **S**tanding | `S`       | `b`           | Between F and B |
-| Rotate **X** | `X`       | `b`           |                 |
-| Rotate **Y** | `Y`       | `b`           |                 |
-| Rotate **Z** | `Z`       | `b`           |                 |
+| **M**iddle   | `M`       | `m`           | Between L and R |
+| **E**quator  | `E`       | `e`           | Between U and D |
+| **S**tanding | `S`       | `s`           | Between F and B |
+| Rotate **X** | `X`       | `x`           |                 |
+| Rotate **Y** | `Y`       | `y`           |                 |
+| Rotate **Z** | `Z`       | `z`           |                 |
 
-
-### Others:
+### Others
 
 | Command | Description         |
 |---------|---------------------|
